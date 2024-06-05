@@ -1,0 +1,4 @@
+venv/
+src/build/
+src/dist/
+src/main.specrm -rf .git

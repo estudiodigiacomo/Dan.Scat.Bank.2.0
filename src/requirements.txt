@@ -1,0 +1,7 @@
+selenium
+tk
+setuptools
+reportlab
+PyPDF2
+python-dateutil
+pyautogui
